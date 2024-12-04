@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cricket: The Gentleman's Game</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #008080;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        nav {
+            background: #f4f4f4;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav a {
+            color: #333;
+            margin: 0 1rem;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        main {
+            padding: 1rem;
+        }
+        h1, h2, h3 {
+            color: #008080;
+        }
+        p {
+            margin: 1rem 0;
+        }
+        ul, ol {
+            margin: 1rem 0;
+            padding-left: 1.5rem;
+        }
+        blockquote {
+            margin: 1rem 0;
+            padding: 0.5rem;
+            background: #f4f4f4;
+            border-left: 5px solid #008080;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cricket: The Gentleman's Game</h1>
+    </header>
+    <nav>
+        <a href="#history">History</a>
+        <a href="#rules">Rules</a>
+        <a href="#players">Famous Players</a>
+    </nav>
+    <main>
+        <section id="history">
+            <h2>History of Cricket</h2>
+            <p>Cricket originated in southeast England in the middle of the 16th century. By the end of the 18th century, it had developed into the national sport of England.</p>
+            <blockquote>The game of cricket has a known history spanning from the 16th century to the present day, with international matches having been played since 1844.</blockquote>
+        </section>
+        <section id="rules">
+            <h2>Basic Rules of Cricket</h2>
+            <ol>
+                <li>Two teams of eleven players each.</li>
+                <li>The game is played on a circular or oval-shaped field.</li>
+                <li>The main objective is to score more runs than the opposing team.</li>
+                <li>Runs are scored by hitting the ball and running between the wickets or by hitting boundaries.</li>
+                <li>The game is divided into innings where one team bats and the other bowls and fields.</li>
+            </ol>
+        </section>
+        <section id="players">
+            <h2>Famous Cricket Players</h2>
+            <ul>
+                <li>Sir Don Bradman</li>
+                <li>Sachin Tendulkar</li>
+                <li>Brian Lara</li>
+                <li>Ricky Ponting</li>
+                <li>Jacques Kallis</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Cricket Enthusiasts</p>
+    </footer>
+</body>
+</html>
